@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+captum
+pillow
+numpy
+pydantic
+pydicom
+python-multipart
